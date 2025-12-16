@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=7f58af&center=true&vCenter=true&width=400&height=60&lines=Hi+👋,+I'm+Palak" alt="Hi, I'm Palak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00bfff&center=true&width=600&height=60&lines=Hi+👋,+I'm+Palak+Vanjara" alt="Hi, I'm Palak V" />
 </h1>
 
 
