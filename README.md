@@ -1,16 +1,39 @@
-## Hi there 👋
+Hi there 👋
+I'm Palak Vanjara
+I believe consistency beats talent.  
+I write code to solve real problems and learn something new every day.
 
-<!--
-**PalakVanjara/PalakVanjara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me
+- 🎓 Education: BCA Currently
+- 💼 Role: Student 
+- 🌱 Currently Learning: Full Stack Developing
+- 📍 Location: Surat,Gujarat,India
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+- **Languages:** React.js, JavaScript, Node.js, Expree.js
+- **Web:** HTML, CSS
+- **Database:** MongoDb, MySql
+- **Tools:** Git, GitHub, VS Code
+
+  📊 GitHub Stats
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PalakVanjara&show_icons=true&theme=radical)
+
+
+
+📫 Contact Me
+- 📧 Email: palakvanjara38@email.com
+- 💼 LinkedIn: (https://www.linkedin.com/in/palak-vanjara-p72879436?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 
+✨ Interests
+- Coding
+- Open Source
+- Problem Solving
+- Web Developing
+
+
+- 🔭 I’m currently working on my college project
+- 🌱 I’m currently learning web designing and developing
+- 👯 I’m looking to collaborate on work that improve my skills
+
+
