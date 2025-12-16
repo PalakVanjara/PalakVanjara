@@ -1,8 +1,7 @@
-
 <h1 align="center">
-  Hi 👋, I'm
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=180&height=45&color=8a2be2&lines=Palak" alt="Palak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=7f58af&center=true&vCenter=true&width=400&height=60&lines=Hi+👋,+I'm+Palak" alt="Hi, I'm Palak" />
 </h1>
+
 
 
 ---
