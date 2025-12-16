@@ -1,5 +1,14 @@
 Hi there 👋
-I'm Palak Vanjara
+
+h1 align="center">Hi 👋, I'm Palak Vanjara</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Student+Developer;Learning+Every+Day;Building+Projects;Open+Source+Enthusiast&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 I believe consistency beats talent.  
 I write code to solve real problems and learn something new every day.
 
@@ -17,7 +26,7 @@ I write code to solve real problems and learn something new every day.
 - **Tools:** Git, GitHub, VS Code
 
   📊 GitHub Stats
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PalakVanjara&show_icons=true&theme=radical)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PalakVanjara&show_icons=true&theme=radical)
 
 
 
