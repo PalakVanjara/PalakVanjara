@@ -24,8 +24,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PalakVanjara&show_icons=true&theme=github_dark)
-" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PalakVanjara&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=58a6ff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalakVanjara&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" />
 </p>
 
 ---
