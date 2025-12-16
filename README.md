@@ -10,8 +10,8 @@
 - 🔭 Working on **college & practice projects**
 - 👯 Looking to collaborate on projects that **improve my skills**
 
--I believe consistency beats talent.  
--I write code to solve real problems and learn something new every day.*
+- I believe consistency beats talent.  
+- I write code to solve real problems and learn something new every day.
 
 ---
 
@@ -24,7 +24,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="(https://github-readme-stats.vercel.app/api?username=PalakVanjara&show_icons=true&theme=radical)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PalakVanjara&show_icons=true" />
 </p>
 
 ---
@@ -43,4 +43,4 @@
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
+⭐ Thanks for visiting my profile! Feel free to explore my repositories.
