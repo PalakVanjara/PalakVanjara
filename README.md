@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Palak Vanjara</h1>
+<h1 align="center">
+  Hi 👋, I'm
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Palak+Vanjara&font=Fira+Code&center=true&width=250&height=40&color=00aaff" alt="Palak Vanjara" />
+</h1>
+
 
 ---
 
