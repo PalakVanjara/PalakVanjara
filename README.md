@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Palak Vanjara</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Student+Developer;Full+Stack+Learner;Building+Every+Day;Consistency+Beats+Talent&center=true&width=600&height=45">
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 </p>
 
@@ -18,8 +14,8 @@
 - 🔭 Working on **college & practice projects**
 - 👯 Looking to collaborate on projects that **improve my skills**
 
-> 💡 *I believe consistency beats talent.  
-I write code to solve real problems and learn something new every day.*
+-I believe consistency beats talent.  
+-I write code to solve real problems and learn something new every day.*
 
 ---
 
@@ -32,17 +28,13 @@ I write code to solve real problems and learn something new every day.*
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="(https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)" />
 </p>
 
 ---
 
 ## 📫 Contact Me
-- 📧 **Email:** yourname@email.com
+- 📧 **Email:** palakvanjara38@gmail.com
 - 💼 **LinkedIn:** https://linkedin.com/in/yourprofile
 
 ---
