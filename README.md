@@ -24,14 +24,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PalakVanjara&show_icons=true" />
+  <img src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PalakVanjara&show_icons=true&theme=github_dark)
+" />
 </p>
 
 ---
 
 ## 📫 Contact Me
 - 📧 **Email:** palakvanjara38@gmail.com
-- 💼 **LinkedIn:** https://linkedin.com/in/yourprofile
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/palak-vanjara-p72879436?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
