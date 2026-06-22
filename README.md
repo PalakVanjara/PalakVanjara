@@ -7,11 +7,9 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **Education:** BCA (Currently)
-- 💼 **Role:** Student
+- 🎓 **Education:** BCA 
 - 🌱 **Learning:** Full Stack Web Development
 - 📍 **Location:** Surat, Gujarat, India
-- 🔭 Working on **college & practice projects**
 - 👯 Looking to collaborate on projects that **improve my skills**
 
 - I believe consistency beats talent.  
